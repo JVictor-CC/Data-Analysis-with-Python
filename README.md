@@ -69,3 +69,10 @@ Use the data to complete the following tasks in medical_data_visualizer.py:
 Project Url: <https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer>
 
 Solution Url: <>
+
+## 5. Fifth Project: Build a Sea Level Predictor
+
+Project Url: <https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor>
+
+Solution Url: <>
+
