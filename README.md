@@ -84,7 +84,7 @@ Use the data to complete the following tasks:
 
 Project Url: <https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor>
 
-Solution Url: <>
+Solution Url: <https://replit.com/@Joovictorvict19/boilerplate-sea-level-predictor#sea_level_predictor.py>
 
 You will analyze a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
 
